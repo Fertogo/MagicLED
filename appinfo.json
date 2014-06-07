@@ -1,0 +1,21 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "longName": "Magic LED",
+    "capabilities": [
+        ""
+    ],
+    "versionLabel": "1.0",
+    "companyName": "trujano@mit.edu",
+    "resources": {
+        "media": []
+    },
+    "watchapp": {
+        "watchface": false
+    },
+    "uuid": "6aa9018d-3414-4eab-927d-9697d3784237",
+    "shortName": "Magic LED",
+    "versionCode": 1
+}
